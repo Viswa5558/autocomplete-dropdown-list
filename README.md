@@ -24,7 +24,7 @@ Download the auto-complete-dropdown-list folder and install the required package
 > ng serve
 ```
 
-## Adding auto-complete-drop-down-list component in your project
+## Adding auto-complete-dropdown-list component in your project
  Download the auto-complete-dropdown-list component to your project.
 
 In this Component when user entering the characters in the Search box it will automatically gives suggestions of values.On clicking the input value it will be appended to the input text box.  
