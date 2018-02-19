@@ -32,18 +32,18 @@ In this Component when user entering the characters in the Search box it will au
 #### Initially the component looks like this:
 
 <p align="center">
-    <img  alt="Auto-Complete-Drop-Down-List" src="autocomplete.PNG" class="img-responsive">
+    <img  alt="Auto-Complete-Drop-Down-List" src="img/autocomplete.PNG" class="img-responsive">
 </p>
 
 #### when user enters something to search in the Search box,it will automatically give some suggestions(Because of autocomplete):
 
 <p align="center">
-    <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
+    <img  alt="Auto-Complete-Drop-Down-List" src="img/autocomplete1.PNG" class="img-responsive">
 </p>
 
 #### When user clicks the selected value, the value will be appended to the input text box:
 
 <p align="center">
-    <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
+    <img  alt="Auto-Complete-Drop-Down-List" src="img/autocomplete2.PNG" class="img-responsive">
 </p>
 
