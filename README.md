@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
+    <img  alt="Auto-Complete-Drop-Down-List" src="img/autocomplete.PNG" class="img-responsive">
 </p>
 
 To preview demo of to do list project, [Click here](https://stackblitz.com/edit/angular-material-todolist-wuu6qb?embed=1&file=index.html&hideExplorer=1&hideNavigation=1&view=preview)
@@ -32,7 +32,7 @@ In this Component when user entering the characters in the Search box it will au
 #### Initially the component looks like this:
 
 <p align="center">
-    <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
+    <img  alt="Auto-Complete-Drop-Down-List" src="autocomplete.PNG" class="img-responsive">
 </p>
 
 #### when user enters something to search in the Search box,it will automatically give some suggestions(Because of autocomplete):
