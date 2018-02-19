@@ -35,13 +35,13 @@ In this Component when user entering the characters in the Search box it will au
     <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
 </p>
 
-### when user entering the characters in the Search box:
+#### when user enters something to search in the Search box,it will automatically give some suggestions(Because of autocomplete):
 
 <p align="center">
     <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
 </p>
 
-### When user clicking the selected value it will be appended to the input text box:
+#### When user clicks the selected value, the value will be appended to the input text box:
 
 <p align="center">
     <img  alt="Auto-Complete-Drop-Down-List" src="img/todolist.png" class="img-responsive">
