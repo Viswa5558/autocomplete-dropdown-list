@@ -24,8 +24,18 @@ Download the auto-complete-dropdown-list folder and install the required package
 > ng serve
 ```
 
-## Adding auto-complete-dropdown-list component in your project
+
+### Adding auto-complete-dropdown-list component in your project
  Download the auto-complete-dropdown-list component to your project.  
+ 
+**<app-dropdown [dropdownOptions]='countryList'></app-dropdown>**
+
+###Interface
+
+export interface CountryInfo {
+  label:string;
+  value:string;
+}
   
 #### Initially the component looks like this:
 
