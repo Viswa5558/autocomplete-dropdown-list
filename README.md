@@ -30,7 +30,7 @@ Download the auto-complete-dropdown-list folder and install the required package
  
 **<app-dropdown [dropdownOptions]='countryList'></app-dropdown>**
 
-###Interface
+### Interface
 
 export interface CountryInfo {
   label:string;
